@@ -4,6 +4,8 @@
 <p align="center"><em>"Code is like poetry — it has to make sense and evoke clarity." 🌟</em></p>
 
 ---
+### Get to know Me
+- **Portfolio:** https://hetalbaraiya.github.io/Portfolio_/
 
 ### 📬 Contact Me
 - **Email:** hetaldbaraiya@gmail.com
