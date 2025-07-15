@@ -1,27 +1,42 @@
 <h1 align="center">Hi 👋, I'm Hetal Baraiya</h1>
 <h3 align="center">A Passionate Full-Stack Developer 🚀 | Always Learning & Building</h3>
 
-<p align="center"><em>"Code is like poetry — it has to make sense and evoke clarity." 🌟</em></p>
+<img align="right" alt="coding" width="350" src="https://raw.githubusercontent.com/HetalBaraiya/HetalBaraiya/main/assets/Working.gif">
+
+
+- 🔭 I’m currently working on **more about Web Development and Building Projects.**
+
+- 🤖 Exploring **How AI can be applied to real-world web applications and full-stack solutions.**
+
+- 📚 I’m currently learning **DSA to sharpen my logic.**
+
+- 🔄 Always upgrading **my tech stack and improving on my skills.**
+
+- ⚡ Fun fact: **Code, coffee, calm — my daily ritual.**
+
+- ✉ How to reach me: **[hetaldbaraiya@gmail.com](mailto:hetaldbaraiya@gmail.com)**
 
 ---
-### Get to know Me
-- **Portfolio:** https://hetalbaraiya.github.io/Portfolio_/
 
-### 📬 Contact Me
-- **Email:** hetaldbaraiya@gmail.com
-
-### 🌐 Connect with Me
+<h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/hetal-baraiya-1ab885219/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://stackoverflow.com/users/22677097/hetal-baraiya" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/hetal.baraiyaa/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://discordapp.com/users/1244570219796762638" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/hetal-baraiya-1ab885219/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
+  <a href="https://stackoverflow.com/users/22677097/hetal-baraiya" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="30" width="40" />
+  </a>
+  <a href="https://www.instagram.com/hetal.baraiyaa/" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+  </a>
+  <a href="https://discordapp.com/users/1244570219796762638" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
+  </a>
 </p>
 
 ---
 
-### 🛠️ Languages & Tools
-
+<h3 align="left">🛠️ Languages & Tools:</h3>
 <p align="left">
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
   <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
@@ -45,5 +60,3 @@
 </p>
 
 ---
-
-
